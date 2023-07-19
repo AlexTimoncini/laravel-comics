@@ -7,9 +7,7 @@
 </head>
 <body>
     @include('partials.header')
-    <main>
-        @yield('main-section')
-    </main>
+    @include('partials.main')
     @include('partials.footer')
     @vite('resources/js/app.js')
 </body>
