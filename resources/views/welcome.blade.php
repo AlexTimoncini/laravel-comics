@@ -1,7 +1,7 @@
 @extends('layout.app')
 
-@section('title', 'Home')
+@section('title', 'Comics')
 
 @section('main-section')
-    <h1>Hello There, Yuo're such a cute human being!</h1>
+    <h1>On my way</h1>
 @endsection
